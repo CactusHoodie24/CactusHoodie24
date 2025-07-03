@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Precious Phimba</h1>
+<h1 align="center">Hi there 👋, I'm Precious Phimb</h1>
 <h3 align="center">Software Developer | React Native | Node.js | MongoDB | MySQL</h3>
 
 <p align="center">
@@ -29,9 +29,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreciousPhimba&show_icons=true&theme=tokyonight" alt="PreciousPhimba GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PreciousPhimba&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousPhimba&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CactusHoodie24&show_icons=true&theme=tokyonight" alt="PreciousPhimba GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CactusHoodie24&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CactusHoodie24&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
