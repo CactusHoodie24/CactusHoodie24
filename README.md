@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Precious Phimb</h1>
+<h1 align="center">Hi there 👋, I'm Mcloud Phimba also known as CactusHoodie24</h1>
 <h3 align="center">Software Developer | React Native | Node.js | MongoDB | MySQL</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 - 🎓 I hold an Honours Degree in **Computing & Information Systems**
-- 💼 Currently building apps with **React Native**, **MongoDB**, and **Node.js**
+- 💼 Currently building apps with **React Native**, **Next.JS**, **MongoDB**, and **Node.js**
 - 🌱 Exploring **TypeScript**, **Next.js**, and **Firebase Cloud Messaging**
 - 🛠️ Skilled in: JavaScript, MySQL, Prisma, Express, PHP
 - 🚀 Passionate about solving real-world problems with technology
